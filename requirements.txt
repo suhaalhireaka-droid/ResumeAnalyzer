@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+pandas
+plotly
+python-dotenv
+google-generativeai
+sentence-transformers
+scikit-learn
+firebase-admin
+google-auth-oauthlib
+google-auth-httplib2
